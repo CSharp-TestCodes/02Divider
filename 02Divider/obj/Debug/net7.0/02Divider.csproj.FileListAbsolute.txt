@@ -1,0 +1,15 @@
+F:\Proj\C#\CSharp-TestCodes\02Divider\02Divider\bin\Debug\net7.0\02Divider.exe
+F:\Proj\C#\CSharp-TestCodes\02Divider\02Divider\bin\Debug\net7.0\02Divider.deps.json
+F:\Proj\C#\CSharp-TestCodes\02Divider\02Divider\bin\Debug\net7.0\02Divider.runtimeconfig.json
+F:\Proj\C#\CSharp-TestCodes\02Divider\02Divider\bin\Debug\net7.0\02Divider.dll
+F:\Proj\C#\CSharp-TestCodes\02Divider\02Divider\bin\Debug\net7.0\02Divider.pdb
+F:\Proj\C#\CSharp-TestCodes\02Divider\02Divider\obj\Debug\net7.0\02Divider.csproj.AssemblyReference.cache
+F:\Proj\C#\CSharp-TestCodes\02Divider\02Divider\obj\Debug\net7.0\02Divider.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proj\C#\CSharp-TestCodes\02Divider\02Divider\obj\Debug\net7.0\02Divider.AssemblyInfoInputs.cache
+F:\Proj\C#\CSharp-TestCodes\02Divider\02Divider\obj\Debug\net7.0\02Divider.AssemblyInfo.cs
+F:\Proj\C#\CSharp-TestCodes\02Divider\02Divider\obj\Debug\net7.0\02Divider.csproj.CoreCompileInputs.cache
+F:\Proj\C#\CSharp-TestCodes\02Divider\02Divider\obj\Debug\net7.0\02Divider.dll
+F:\Proj\C#\CSharp-TestCodes\02Divider\02Divider\obj\Debug\net7.0\refint\02Divider.dll
+F:\Proj\C#\CSharp-TestCodes\02Divider\02Divider\obj\Debug\net7.0\02Divider.pdb
+F:\Proj\C#\CSharp-TestCodes\02Divider\02Divider\obj\Debug\net7.0\02Divider.genruntimeconfig.cache
+F:\Proj\C#\CSharp-TestCodes\02Divider\02Divider\obj\Debug\net7.0\ref\02Divider.dll
